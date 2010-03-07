@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792px"
+	 height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="META">
+	<text transform="matrix(1 0 0 1 60.9038 65.353)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">WIREFRAME</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">NEIGHBORLY HOMEPAGE  3/6/2010</tspan></text>
+	<rect id="page_boundary" x="60.904" y="95.605" fill="none" stroke="#000000" width="673.786" height="462.185"/>
+	<text transform="matrix(1 0 0 1 302.4775 61.8311)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="8">This is a wireframe. </tspan><tspan x="0" y="9.6" font-family="'MyriadPro-Regular'" font-size="8">This demonstrates which elements will be on which screens, and the relative importance of the elements.</tspan><tspan x="0" y="19.2" font-family="'MyriadPro-Regular'" font-size="8">Designers can use the wireframes to determine actual layout, colors, typography and balance.</tspan></text>
+	<text transform="matrix(1 0 0 1 100.9692 216.6133)" font-family="'MyriadPro-Regular'" font-size="18">Brief description of the project tagline.</text>
+</g>
+<g id="wireframe">
+	<text transform="matrix(1 0 0 1 104.0562 495.8076)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="14">General information </tspan><tspan x="0" y="16.8" font-family="'MyriadPro-Regular'" font-size="14">Be safe</tspan><tspan x="0" y="33.6" font-family="'MyriadPro-Regular'" font-size="14">Other links TBD</tspan></text>
+	<line stroke="#000000" stroke-width="2" x1="734.689" y1="461.151" x2="61.218" y2="461.151"/>
+	<g id="navigation">
+		<text transform="matrix(1 0 0 1 476.6221 176.1465)" font-family="'MyriadPro-Regular'" font-size="24">about</text>
+		<text transform="matrix(1 0 0 1 553.543 175.4209)" font-family="'MyriadPro-Regular'" font-size="24">sign up</text>
+		<text transform="matrix(1 0 0 1 638.4795 175.5586)" font-family="'MyriadPro-Regular'" font-size="24">login</text>
+		<text transform="matrix(1 0 0 1 411.3154 176.1465)" font-family="'MyriadPro-Regular'" font-size="24">learn</text>
+	</g>
+	<g id="form">
+		<rect x="300.078" y="278.961" fill="none" stroke="#6D6E71" stroke-width="0.9694" width="207.91" height="25.165"/>
+		<text transform="matrix(1 0 0 1 158.3799 337.6875)" font-family="'MyriadPro-Regular'" font-size="24">to see your neighborly neighbors</text>
+		<text transform="matrix(1 0 0 1 100.9692 299.2617)" font-family="'MyriadPro-Regular'" font-size="24">Enter your address:</text>
+	</g>
+	<text transform="matrix(1 0 0 1 100.9692 178.9102)" font-family="'MyriadPro-Regular'" font-size="48">Neighborly</text>
+	
+		<text transform="matrix(1 0 0 1 303.1172 298.4141)" display="none" fill="#4761AD" font-family="'MyriadPro-Regular'" font-size="23.4613">55407</text>
+</g>
+</svg>
